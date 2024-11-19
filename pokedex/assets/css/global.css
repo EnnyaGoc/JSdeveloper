@@ -1,0 +1,14 @@
+*{
+    font-family: 'Ronoto', sans-serif;
+}
+
+body {
+    background-color: #f6f8fc;
+}
+
+.content {
+    width: 100vw;
+    height: 100vh;
+    padding: 1rem;
+    background-color: #fff;
+}
